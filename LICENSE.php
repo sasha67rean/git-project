@@ -1,1 +1,5 @@
-hueta
+<?php
+
+	echo 'Hello Git!';
+
+?>
